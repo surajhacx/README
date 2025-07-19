@@ -21,13 +21,12 @@ Add it in the **middle** of your README to create a **full-width gamified visual
 
 ### 🏆 **Certifications**
 
-| Certification                     | Badge                                                                                                          |
-|----------------------------------|----------------------------------------------------------------------------------------------------------------|
-| [OSCP+]               | [<img src="https://www.offsec.com/_astro/OSCP-plus.BZHuApYA_Ztlntl.svg" alt="OSCP+ Badge" />](https://credentials.offsec.com/37444eda-dfea-49f2-b8c8-f5ea3564338d#acc.ZeiPxRKg)            |
-| [OSCP]                 | [<img src="https://images.credly.com/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" alt="OSCP Badge" />]([https://www.offensive-security.com/certifications/oscp/](https://credentials.offsec.com/9744230a-c5a7-4a5b-9879-9b854cabc25f#acc.quvORTWt))                    |
-| [OSWP]                     | [<img src="https://img.shields.io/badge/OSWP-Certified-blue?style=for-the-badge&logo=offensive-security" alt="OSWP Badge" />](https://credentials.offsec.com/47a38259-6cca-4c59-a066-6dd650ed1f85#acc.sw4pjbR7)                    |
-| [HackTheOffshore]                                   | [<img src="https://www.hackthebox.com/images/landingv3/offshore-icon.webp" alt="HackTheOffshore Badge" />](https://hacktheoffshore.com/)                                   |
-
+| Certification  | Badge                                                                                                                                               |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| [OSCP+](https://credentials.offsec.com/37444eda-dfea-49f2-b8c8-f5ea3564338d#acc.ZeiPxRKg)    | [<img src="https://www.offsec.com/_astro/OSCP-plus.BZHuApYA_Ztlntl.svg" alt="OSCP+ Badge" width="80" />](https://credentials.offsec.com/37444eda-dfea-49f2-b8c8-f5ea3564338d#acc.ZeiPxRKg)              |
+| [OSCP](https://credentials.offsec.com/9744230a-c5a7-4a5b-9879-9b854cabc25f#acc.quvORTWt)      | [<img src="https://images.credly.com/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" alt="OSCP Badge" width="80" />](https://credentials.offsec.com/9744230a-c5a7-4a5b-9879-9b854cabc25f#acc.quvORTWt)                      |
+| [OSWP](https://credentials.offsec.com/47a38259-6cca-4c59-a066-6dd650ed1f85#acc.sw4pjbR7)      | [<img src="https://cdn.sanity.io/images/t7y0tkf4/production/ea74dbe1235676244262fd9ebb3cf37b7783c0d7-300x300.svg" alt="OSWP Badge" width="80" />](https://credentials.offsec.com/47a38259-6cca-4c59-a066-6dd650ed1f85#acc.sw4pjbR7)                      |
+| [HackTheOffshore](https://hacktheoffshore.com/)   | [<img src="https://www.hackthebox.com/images/landingv3/offshore-icon.webp" alt="HackTheOffshore Badge" width="80" />](https://hacktheoffshore.com/)                                         |
 
 ---
 
