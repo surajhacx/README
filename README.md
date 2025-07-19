@@ -6,10 +6,11 @@
 For freelance work? do reach, [email](mailto:surajtheekshanahackerone@gmail.com) :)
 ---
 
-### 🐉 **Flying Dragon Effect**
+<div align="center">
 
-This dragon flies across your GitHub profile to symbolise **power, domination, and mythical hacker strength**.  
-Add it in the **middle** of your README to create a **full-width gamified visual break**.
+<img src="https://media.tenor.com/QM3Uf1OmvTsAAAAi/my-dress-up-darling-kitagawa-marin.gif" alt="Kitagawa Marin" />
+
+</div>
 
 ---
 
