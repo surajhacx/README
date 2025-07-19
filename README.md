@@ -92,11 +92,15 @@ Add it in the **middle** of your README to create a **full-width gamified visual
 </div>
 
 ---
-📈 my github stats
+<div align="center">
 
-![surajhacx's Stats](https://github-readme-stats.vercel.app/api?username=surajhacx&theme=monokai&show_icons=true&hide_border=false&count_private=true)
+## 📈 My GitHub Stats
 
-![surajhacx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=surajhacx&theme=monokai&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=surajhacx&theme=monokai&show_icons=true&hide_border=false&count_private=true" alt="surajhacx's GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajhacx&theme=monokai&hide_border=false" alt="surajhacx's GitHub Streak" />
+
+</div>
 
 ### 📫 **Connect with Me**
 
