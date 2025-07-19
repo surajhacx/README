@@ -54,7 +54,7 @@
   </a>
 
   <a href="https://drexel.edu/it/security/" target="_blank">
-    <img src="https://drexel.edu/identity/~/media/Drexel/UMaC-Site-Group/Identity/Images/pageLogos/resized_Drexel-logos/VerticalBlue-on-White3200x1800.jpg" alt="Drexel University" width="70" style="margin: 10px;" />
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/drexel-university-logo-svg-vector.svg" alt="Drexel Uniy" width="70" style="margin: 10px;" />
   </a>
 
   <a href="https://bugzero.io/" target="_blank">
