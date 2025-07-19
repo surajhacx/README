@@ -5,8 +5,31 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="100%" />
+
+<style>
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-50px); }
+}
+
+.bouncing-ball {
+  width: 50px;
+  height: 50px;
+  background: radial-gradient(circle at 30% 30%, #34d399, #059669);
+  border-radius: 50%;
+  animation: bounce 0.5s ease-in-out infinite;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+</style>
+
+<div class="bouncing-ball"></div>
+
+<br>
+
+<b>MD5: d41d8cd98f00b204e9800998ecf8427e</b>
+
 </div>
+
 
 ---
 
