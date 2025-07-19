@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=green&center=true&vCenter=true&width=500&lines=+OSCP+|+OSWP+|+CVE+Hunter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=green&center=true&vCenter=true&width=500&lines=+OSCP+|+OSWP+|+Bug+Hunter" alt="Typing SVG" />
 </p>
-
----
-For freelance work? do reach, [email](mailto:surajtheekshanahackerone@gmail.com) :)
 ---
 
 <div align="center">
@@ -13,7 +10,6 @@ For freelance work? do reach, [email](mailto:surajtheekshanahackerone@gmail.com)
 </div>
 
 ---
-
 
 <div align="center">
 
@@ -106,15 +102,10 @@ For freelance work? do reach, [email](mailto:surajtheekshanahackerone@gmail.com)
 ### 📫 **Connect with Me**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOURUSERNAME">
+  <a href="https://www.linkedin.com/in/suraj-theekshana-10171023a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://tryhackme.com/p/YOURUSERNAME">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme" />
-  </a>
-  <a href="https://app.hackthebox.com/profile/YOURUSERNAME">
-    <img src="https://img.shields.io/badge/HackTheBox-Profile-green?style=for-the-badge&logo=hackthebox" />
-  </a>
+
 </p>
 
 ---
