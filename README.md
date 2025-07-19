@@ -8,7 +8,7 @@ For freelance work? do reach, [email](mailto:surajtheekshanahackerone@gmail.com)
 
 <div align="center">
 
-<img src="https://animesher.com/orig/1/149/1493/14935/animesher.com_-sword-art-online-girl-1493543.gif" alt="Kitagawa Marin" />
+<img src="https://giffiles.alphacoders.com/131/131328.gif" alt="Kitagawa Marin" />
 
 </div>
 
