@@ -54,7 +54,7 @@
   </a>
 
   <a href="https://drexel.edu/it/security/" target="_blank">
-    <img src="https://drexel.edu/identity/~/media/Drexel/UMaC-Site-Group/Identity/Images/pageLogos/resized_Drexel-logos/Vertical---Blue-on-White---3200x1800.jpg" alt="Drexel University" width="70" style="margin: 10px;" />
+    <img src="https://drexel.edu/identity/~/media/Drexel/UMaC-Site-Group/Identity/Images/pageLogos/resized_Drexel-logos/VerticalBlue-on-White3200x1800.jpg" alt="Drexel University" width="70" style="margin: 10px;" />
   </a>
 
   <a href="https://bugzero.io/" target="_blank">
@@ -103,7 +103,7 @@
 
 </p>
 
----
+
 
 ⭐️ *“Stay Exploiting. Stay Learning.”*
 
