@@ -1,5 +1,3 @@
-<h1 align="center">🔥 Suraj Theekshana 🔥</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=+OSCP+|+OSWP+|+CVE+Hunter" alt="Typing SVG" />
 </p>
@@ -43,7 +41,51 @@ Add it in the **middle** of your README to create a **full-width gamified visual
 
 ---
 
-### ⚡ **Gamified MD5 Identity**
+<div align="center">
+
+### 🐉 Proudly Bug Bounty Hunted Brands
+
+<p>
+  <a href="https://www.allianz.com/en/about-us/at-a-glance/strategy-values/it-security.html" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Allianz_logo_2018.svg" alt="Allianz" width="100" style="margin: 30px;" />
+  </a>
+  
+  <a href="https://www.crowdstrike.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/5/54/CrowdStrike_logo.png" alt="Crowdstrike" width="100" style="margin: 30px;" />
+  </a>
+  
+  <a href="https://www.nokia.com/about-us/security/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Nokia_wordmark.svg" alt="Nokia" width="100" style="margin: 30px;" />
+  </a>
+
+  <a href="https://drexel.edu/it/security/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/2/27/Drexel_University_wordmark.svg" alt="Drexel University" width="100" style="margin: 30px;" />
+  </a>
+
+  <a href="https://bugzero.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://bugzero.io/static/media/logo.a706e0a2.svg" alt="BugZero" width="100" style="margin: 30px;" />
+  </a>
+
+  <a href="https://payhere.lk/" target="_blank" rel="noopener noreferrer">
+    <img src="https://payhere.lk/images/logo.png" alt="PayHere" width="100" style="margin: 30px;" />
+  </a>
+
+  <a href="https://www.helakuru.lk/" target="_blank" rel="noopener noreferrer">
+    <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/15/e5/22/15e52260-59e0-6d9d-79b8-8719fa5c1a2d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1200x630bb.png" alt="Helakuru" width="100" style="margin: 30px;" />
+  </a>
+
+  <a href="https://wso2.com/security/" target="_blank" rel="noopener noreferrer">
+    <img src="https://wso2.com/files/wso2-logo.svg" alt="WSO2" width="100" style="margin: 30px;" />
+  </a>
+
+  <a href="https://www.msi.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://storage-asset.msi.com/frontend/imgs/logo.png" alt="MSI" width="100" style="margin: 30px;" />
+  </a>
+
+</p>
+
+</div>
+
 
 
 ---
