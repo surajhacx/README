@@ -43,52 +43,56 @@ Add it in the **middle** of your README to create a **full-width gamified visual
 
 <div align="center">
 
-### 🐉 Proudly Bug Bounty Hunted Brands
+<div align="center">
 
-<p>
+## 🐉 Proudly Bug Bounty Hunted Brands
+
+<hr style="border:1px solid gray;width:50%;">
+
+<p align="center">
   <a href="https://www.allianz.com/en/about-us/at-a-glance/strategy-values/it-security.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.allianz.lk/content/dam/onemarketing/system/allianz-logo.svg" alt="Allianz" width="100" style="margin: 30px;" />
+    <img src="https://www.allianz.lk/content/dam/onemarketing/system/allianz-logo.svg" alt="Allianz" width="100" style="margin: 20px;" />
   </a>
   
   <a href="https://www.crowdstrike.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://assets.crowdstrike.com/is/content/crowdstrikeinc/black-primary-crowdstrike-logo-1-addedPadding-3?ts=1752783010898&dpr=off" alt="Crowdstrike" width="100" style="margin: 30px;" />
+    <img src="https://assets.crowdstrike.com/is/image/crowdstrikeinc/black-primary-crowdstrike-logo-1-addedPadding-3" alt="Crowdstrike" width="100" style="margin: 20px;" />
   </a>
   
   <a href="https://www.nokia.com/about-us/security/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/342072/nokia.svg" alt="Nokia" width="100" style="margin: 30px;" />
+    <img src="https://www.svgrepo.com/show/342072/nokia.svg" alt="Nokia" width="100" style="margin: 20px;" />
   </a>
 
   <a href="https://drexel.edu/it/security/" target="_blank" rel="noopener noreferrer">
-    <img src="https://drexel.edu/identity/~/media/Drexel/UMaC-Site-Group/Identity/Images/pageLogos/resized_Drexel-logos/Vertical---Blue-on-White---3200x1800.jpg" alt="Drexel University" width="100" style="margin: 30px;" />
+    <img src="https://drexel.edu/identity/~/media/Drexel/UMaC-Site-Group/Identity/Images/pageLogos/resized_Drexel-logos/Vertical---Blue-on-White---3200x1800.jpg" alt="Drexel University" width="100" style="margin: 20px;" />
   </a>
 
   <a href="https://bugzero.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://firebasestorage.googleapis.com/v0/b/bug-zero.appspot.com/o/images%2Forganization%2Fbz%2Fbugzero-dp.png?alt=media&token=60e6a9bf-ef01-4e46-9cd0-1f903e3d9362" alt="BugZero" width="100" style="margin: 30px;" />
+    <img src="https://firebasestorage.googleapis.com/v0/b/bug-zero.appspot.com/o/images%2Forganization%2Fbz%2Fbugzero-dp.png?alt=media&token=60e6a9bf-ef01-4e46-9cd0-1f903e3d9362" alt="BugZero" width="100" style="margin: 20px;" />
   </a>
 
   <a href="https://payhere.lk/" target="_blank" rel="noopener noreferrer">
-    <img src="https://payherestorage.blob.core.windows.net/payhere-resources/www/images/PayHere-Logo.png" alt="PayHere" width="100" style="margin: 30px;" />
+    <img src="https://payherestorage.blob.core.windows.net/payhere-resources/www/images/PayHere-Logo.png" alt="PayHere" width="100" style="margin: 20px;" />
   </a>
 
   <a href="https://www.helakuru.lk/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.helakuru.lk/assets/images/helakuru-logo1.png" alt="Helakuru" width="100" style="margin: 30px;" />
+    <img src="https://www.helakuru.lk/assets/images/helakuru-logo1.png" alt="Helakuru" width="100" style="margin: 20px;" />
   </a>
 
   <a href="https://wso2.com/security/" target="_blank" rel="noopener noreferrer">
-    <img src="https://wso2.cachefly.net/wso2/sites/all/2023/images/webp/wso2-logo.webp" alt="WSO2" width="100" style="margin: 30px;" />
+    <img src="https://wso2.cachefly.net/wso2/sites/all/2023/images/webp/wso2-logo.webp" alt="WSO2" width="100" style="margin: 20px;" />
   </a>
 
-  <a href="https://wso2.com/security/" target="_blank" rel="noopener noreferrer">
-    <img src="https://wso2.cachefly.net/wso2/sites/all/2020-theme/images/choreo-logo-black.svg" alt="Choreo" width="100" style="margin: 30px;" />
+  <a href="https://wso2.com/choreo" target="_blank" rel="noopener noreferrer">
+    <img src="https://wso2.cachefly.net/wso2/sites/all/2020-theme/images/choreo-logo-black.svg" alt="Choreo" width="100" style="margin: 20px;" />
   </a>
 
   <a href="https://www.msi.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://storage-asset.msi.com/frontend/imgs/logo.png" alt="MSI" width="100" style="margin: 30px;" />
+    <img src="https://storage-asset.msi.com/frontend/imgs/logo.png" alt="MSI" width="100" style="margin: 20px;" />
   </a>
-
 </p>
 
 </div>
+
 
 
 
