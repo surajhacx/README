@@ -33,9 +33,10 @@
 
 <div align="center">
 
+<hr style="border:1px solid gray;width:50%;">
+
 ## 🐉 Proudly Bug Bounty Hunted Brands
 
-<hr style="border:1px solid gray;width:50%;">
 
 <p align="center">
   <a href="https://www.allianz.com/en/about-us/at-a-glance/strategy-values/it-security.html" target="_blank">
