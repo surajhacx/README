@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ### 🏆 **Certifications**
@@ -86,7 +84,6 @@
 
 </div>
 
----
 <div align="center">
 
 ## 📈 My GitHub Stats
