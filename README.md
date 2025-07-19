@@ -47,35 +47,39 @@ Add it in the **middle** of your README to create a **full-width gamified visual
 
 <p>
   <a href="https://www.allianz.com/en/about-us/at-a-glance/strategy-values/it-security.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Allianz_logo_2018.svg" alt="Allianz" width="100" style="margin: 30px;" />
+    <img src="https://www.allianz.lk/content/dam/onemarketing/system/allianz-logo.svg" alt="Allianz" width="100" style="margin: 30px;" />
   </a>
   
   <a href="https://www.crowdstrike.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/5/54/CrowdStrike_logo.png" alt="Crowdstrike" width="100" style="margin: 30px;" />
+    <img src="https://assets.crowdstrike.com/is/content/crowdstrikeinc/black-primary-crowdstrike-logo-1-addedPadding-3?ts=1752783010898&dpr=off" alt="Crowdstrike" width="100" style="margin: 30px;" />
   </a>
   
   <a href="https://www.nokia.com/about-us/security/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Nokia_wordmark.svg" alt="Nokia" width="100" style="margin: 30px;" />
+    <img src="https://www.nokia.com/sites/default/files/2023-02/nokia-refreshed-logo-1_1.jpg" alt="Nokia" width="100" style="margin: 30px;" />
   </a>
 
   <a href="https://drexel.edu/it/security/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/2/27/Drexel_University_wordmark.svg" alt="Drexel University" width="100" style="margin: 30px;" />
+    <img src="https://drexel.edu/identity/~/media/Drexel/UMaC-Site-Group/Identity/Images/pageLogos/resized_Drexel-logos/Vertical---Blue-on-White---3200x1800.jpg" alt="Drexel University" width="100" style="margin: 30px;" />
   </a>
 
   <a href="https://bugzero.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://bugzero.io/static/media/logo.a706e0a2.svg" alt="BugZero" width="100" style="margin: 30px;" />
+    <img src="https://firebasestorage.googleapis.com/v0/b/bug-zero.appspot.com/o/images%2Forganization%2Fbz%2Fbugzero-dp.png?alt=media&token=60e6a9bf-ef01-4e46-9cd0-1f903e3d9362" alt="BugZero" width="100" style="margin: 30px;" />
   </a>
 
   <a href="https://payhere.lk/" target="_blank" rel="noopener noreferrer">
-    <img src="https://payhere.lk/images/logo.png" alt="PayHere" width="100" style="margin: 30px;" />
+    <img src="https://payherestorage.blob.core.windows.net/payhere-resources/www/images/PayHere-Logo.png" alt="PayHere" width="100" style="margin: 30px;" />
   </a>
 
   <a href="https://www.helakuru.lk/" target="_blank" rel="noopener noreferrer">
-    <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple126/v4/15/e5/22/15e52260-59e0-6d9d-79b8-8719fa5c1a2d/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1200x630bb.png" alt="Helakuru" width="100" style="margin: 30px;" />
+    <img src="https://www.helakuru.lk/assets/images/helakuru-logo1.png" alt="Helakuru" width="100" style="margin: 30px;" />
   </a>
 
   <a href="https://wso2.com/security/" target="_blank" rel="noopener noreferrer">
-    <img src="https://wso2.com/files/wso2-logo.svg" alt="WSO2" width="100" style="margin: 30px;" />
+    <img src="https://wso2.cachefly.net/wso2/sites/all/2023/images/webp/wso2-logo.webp" alt="WSO2" width="100" style="margin: 30px;" />
+  </a>
+
+  <a href="https://wso2.com/security/" target="_blank" rel="noopener noreferrer">
+    <img src="https://wso2.cachefly.net/wso2/sites/all/2020-theme/images/choreo-logo-black.svg" alt="Choreo" width="100" style="margin: 30px;" />
   </a>
 
   <a href="https://www.msi.com" target="_blank" rel="noopener noreferrer">
