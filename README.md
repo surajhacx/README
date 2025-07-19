@@ -55,7 +55,7 @@ Add it in the **middle** of your README to create a **full-width gamified visual
   </a>
   
   <a href="https://www.nokia.com/about-us/security/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.nokia.com/sites/default/files/2023-02/nokia-refreshed-logo-1_1.jpg" alt="Nokia" width="100" style="margin: 30px;" />
+    <img src="https://www.svgrepo.com/show/342072/nokia.svg" alt="Nokia" width="100" style="margin: 30px;" />
   </a>
 
   <a href="https://drexel.edu/it/security/" target="_blank" rel="noopener noreferrer">
