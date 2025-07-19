@@ -31,8 +31,6 @@
 
 </div>                                       
 
----
-
 <div align="center">
 
 ## 🐉 Proudly Bug Bounty Hunted Brands
