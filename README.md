@@ -1,7 +1,7 @@
 <h1 align="center">🔥 Suraj Theekshana 🔥</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=OSCP%2B+%7C+OSCP+%7C+OSWP+%7C+CVE+Hunter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=+OSCP+|+OSWP+|+CVE+Hunter" alt="Typing SVG" />
 </p>
 
 ---
@@ -22,13 +22,26 @@ Add it in the **middle** of your README to create a **full-width gamified visual
 ### 🏆 **Certifications**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OSCP%2B-Certified-red?style=for-the-badge&logo=offensive-security" />
-  <img src="https://img.shields.io/badge/OSCP-Certified-brightgreen?style=for-the-badge&logo=offensive-security" />
-  <img src="https://img.shields.io/badge/OSWP-Certified-blue?style=for-the-badge&logo=offensive-security" />
-  <img src="https://img.shields.io/badge/HackTheOffshore-Certified-orange?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/AD-Exploitation%20Expert-yellow?style=for-the-badge&logo=microsoft" />
-  <img src="https://img.shields.io/badge/CVE%20Hunter-2%20CVEs-purple?style=for-the-badge&logo=cve" />
+  <a href="https://www.offensive-security.com/certifications/oscp-plus/">
+    <img src="https://img.shields.io/badge/OSCP%2B-Certified-red?style=for-the-badge&logo=offensive-security" alt="OSCP+" />
+  </a>
+  <a href="https://www.offensive-security.com/certifications/oscp/">
+    <img src="https://img.shields.io/badge/OSCP-Certified-brightgreen?style=for-the-badge&logo=offensive-security" alt="OSCP" />
+  </a>
+  <a href="https://www.offensive-security.com/certifications/oswp/">
+    <img src="https://img.shields.io/badge/OSWP-Certified-blue?style=for-the-badge&logo=offensive-security" alt="OSWP" />
+  </a>
+  <a href="https://hacktheoffshore.com/">
+    <img src="https://img.shields.io/badge/HackTheOffshore-Certified-orange?style=for-the-badge&logo=docker" alt="HackTheOffshore" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/active-directory/">
+    <img src="https://img.shields.io/badge/Active%20Directory-Exploitation%20Expert-yellow?style=for-the-badge&logo=microsoft" alt="Active Directory Expert" />
+  </a>
+  <a href="https://cve.mitre.org/">
+    <img src="https://img.shields.io/badge/CVE%20Hunter-2%20CVEs-purple?style=for-the-badge&logo=cve" alt="CVE Hunter" />
+  </a>
 </p>
+
 
 ---
 
