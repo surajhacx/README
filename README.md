@@ -11,7 +11,7 @@
 
 <div align="center">
 
-### 🏆 **Certifications**
+### 🏆 **Credentials**
 
 <p>
   <a href="https://credentials.offsec.com/37444eda-dfea-49f2-b8c8-f5ea3564338d#acc.ZeiPxRKg" target="_blank" rel="noopener noreferrer">
