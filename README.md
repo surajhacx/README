@@ -33,7 +33,7 @@ Add it in the **middle** of your README to create a **full-width gamified visual
   </a>
 </p>
 
-</div>                                       |
+</div>                                       
 
 ---
 
