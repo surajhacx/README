@@ -26,16 +26,16 @@ Add it in the **middle** of your README to create a **full-width gamified visual
 
 <p>
   <a href="https://credentials.offsec.com/37444eda-dfea-49f2-b8c8-f5ea3564338d#acc.ZeiPxRKg" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.offsec.com/_astro/OSCP-plus.BZHuApYA_Ztlntl.svg" alt="OSCP+ Badge" width="100" style="margin: 30px;" />
+    <img src="https://www.offsec.com/_astro/OSCP-plus.BZHuApYA_Ztlntl.svg" alt="OSCP+ Badge" width="100" style="margin: 50px;" />
   </a>
   <a href="https://credentials.offsec.com/9744230a-c5a7-4a5b-9879-9b854cabc25f#acc.quvORTWt" target="_blank" rel="noopener noreferrer">
-    <img src="https://images.credly.com/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" alt="OSCP Badge" width="100" style="margin: 30px;" />
+    <img src="https://images.credly.com/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" alt="OSCP Badge" width="100" style="margin: 50px;" />
   </a>
   <a href="https://credentials.offsec.com/47a38259-6cca-4c59-a066-6dd650ed1f85#acc.sw4pjbR7" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.sanity.io/images/t7y0tkf4/production/ea74dbe1235676244262fd9ebb3cf37b7783c0d7-300x300.svg" alt="OSWP Badge" width="100" style="margin: 30px;" />
+    <img src="https://cdn.sanity.io/images/t7y0tkf4/production/ea74dbe1235676244262fd9ebb3cf37b7783c0d7-300x300.svg" alt="OSWP Badge" width="100" style="margin: 50px;" />
   </a>
   <a href="https://hacktheoffshore.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.hackthebox.com/images/landingv3/offshore-icon.webp" alt="HackTheOffshore Badge" width="100" style="margin: 30px;" />
+    <img src="https://www.hackthebox.com/images/landingv3/offshore-icon.webp" alt="HackTheOffshore Badge" width="100" style="margin: 50px;" />
   </a>
 </p>
 
