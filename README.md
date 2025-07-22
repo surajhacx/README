@@ -87,13 +87,13 @@
 
 <div align="center">
 
-## 📈 My GitHub Stats
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=surajhacx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=surajhacx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajhacx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=surajhacx&theme=monokai&show_icons=true&hide_border=false&count_private=true" alt="surajhacx's GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajhacx&theme=monokai&hide_border=false" alt="surajhacx's GitHub Streak" />
-
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=surajhacx&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 📫 **Connect with Me**
 
